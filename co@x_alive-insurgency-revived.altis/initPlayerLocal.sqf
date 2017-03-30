@@ -1,0 +1,1 @@
+0 = [] execVM 'player_markers.sqf';
